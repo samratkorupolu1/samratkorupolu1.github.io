@@ -4,7 +4,7 @@ This repository hosts my personal portfolio website, built using **GitHub Pages*
 It showcases my background in **Business Intelligence, Product Data Analytics, and AI Automation**, including work at Parkview Health, Tesla, Amazon, The Standard, and the Indian Navy.
 
 ## Live Site
-👉 [View my portfolio](https://samratkorupolu.github.io)
+👉 [View my portfolio](https://samratkorupolu1.github.io)
 
 ## Highlights
 - 📊 Interactive dashboards (Power BI, Tableau, QuickSight)  
