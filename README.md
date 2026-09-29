@@ -1,22 +1,19 @@
 # Samrat Korupolu — Portfolio
 
-This repository hosts my personal portfolio website, built using **GitHub Pages**.  
-It showcases my background in **Business Intelligence, Product Data Analytics, and AI Automation**, including work at Parkview Health, Tesla, Amazon, The Standard, and the Indian Navy.
+Personal portfolio for Samrat Korupolu, a business intelligence leader and product builder working across analytics, automation, and applied AI.
 
-## Live Site
-👉 [View my portfolio](https://samratkorupolu1.github.io)
+## Live site
 
-## Highlights
-- 📊 Interactive dashboards (Power BI, Tableau, QuickSight)  
-- 🤖 AI/Automation (Copilot Agents, Power Automate, GenAI integrations)  
-- ☁️ Cloud data pipelines (AWS, Azure, GCP)  
-- 🛠 Experience across healthcare, manufacturing, and technology sectors  
+[samratkorupolu1.github.io](https://samratkorupolu1.github.io)
 
-## Tech Stack
-- **Frontend:** HTML, CSS  
-- **Hosting:** GitHub Pages  
-- **Data/Analytics Tools:** SQL, Python, BI platforms  
+## Featured products
 
----
+- [InstaVote](https://instavote.co) — mobile-first visual voting and live results
+- [TagMaps](https://github.com/samratkorupolu1/TagMaps) — location-based public and private tags
+- [Loving Chores](https://lovingchores.com) — fair household chore tracking
 
-© 2025 Samrat Korupolu
+## Built with
+
+The site is a lightweight, responsive HTML and CSS build hosted on GitHub Pages.
+
+© 2026 Samrat Korupolu
