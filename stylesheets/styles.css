@@ -183,10 +183,35 @@ h1 em, .contact-cta h2 em {
 
 .hero-lede {
   max-width: 670px;
-  margin-bottom: 34px;
+  margin-bottom: 24px;
   color: rgba(255, 255, 255, 0.72);
   font-size: 1.14rem;
   line-height: 1.7;
+}
+
+.visitor-greeting {
+  display: inline-flex;
+  min-height: 36px;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 30px;
+  border: 1px solid rgba(135, 245, 196, 0.2);
+  border-radius: 999px;
+  padding: 7px 13px;
+  background: rgba(135, 245, 196, 0.06);
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.visitor-dot {
+  width: 7px;
+  height: 7px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--signal);
+  box-shadow: 0 0 0 5px rgba(135, 245, 196, 0.1);
 }
 
 .hero-actions, .project-links, .footer-grid > div {
