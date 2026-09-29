@@ -1,6 +1,6 @@
 # Samrat Korupolu — Portfolio
 
-Personal portfolio for Samrat Korupolu, a business intelligence leader and product builder working across analytics, automation, and applied AI.
+Personal portfolio for Samrat Korupolu, a senior data engineer and product builder working across modern data platforms, analytics, automation, and applied AI.
 
 ## Live site
 
